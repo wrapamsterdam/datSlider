@@ -1,5 +1,10 @@
 # datSlider
-A fully responsive horizontal jQuery slider with included lightbox. 
+A fully responsive horizontal jQuery slider with included lightbox.
+
+## Dependencies
+- jQuery
+- jQuery UI
+- jQuery SmoothDivScroll 1.3
 
 ## Basic markup
 ```html
